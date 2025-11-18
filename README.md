@@ -1,7 +1,7 @@
 <div align="center">
 
 # TraceLabs CTF MVO Award Write-up November, 2025
-## ༼ つ ◕_◕ ༽つ gimmelocation
+## Team ༼ つ ◕_◕ ༽つ gimmelocation
 </div>
 
 **OSINTI4L:**
