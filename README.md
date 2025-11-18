@@ -2,6 +2,7 @@
 
 # TraceLabs CTF MVO Award Write-up November, 2025
 ## Team ༼ つ ◕_◕ ༽つ gimmelocation
+<img width="150" height="150" alt="TLMVO" src="https://github.com/user-attachments/assets/333a1039-e34a-4ccb-956f-a0006df03cf4" />
 </div>
 
 **OSINTI4L:**
@@ -61,4 +62,6 @@ The last image analyzed was a video shared by the MP 12 days prior to the CTF an
 
 **Pulling It All Together**
 
-As we decided that the collected data points were the *most* relevant to the investiation, we began documenting. A flow chart was made with all relevant intel
+As we decided that the aforementioned data points were the *most* relevant to the investigation, we began documenting. A flow chart was made (draw.io) with all relevant intel points gathered. This allowed us to provide a single document showing the workflow and comparison of geolocation data showing how the information was sourced and how we confirmed the intel was valid. Information without context is not intelligence, as such, we have found that the proper documentation of intel points is *just as important* as the intel points themselves. This chart allowed us to ultimately display that and thus awarded Most Valuable OSINT.
+
+✌️
