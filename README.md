@@ -55,7 +55,7 @@ The following data points stood out as demographic identifiers:
   - The car-wash tiles and paint were not sun bleached which indicates that it was not in an area where taller buildings were present to shade them
   - The car-wash was self-service which was typically not found in the downtown areas
 
-These data points allowed a narrowing of the car-wash search areas and ultimately yielded us an address to the car-wash identified in the image. Google Maps and Google Street View were then utilized to attempt to locate and confirm the *exact* location that the image was taken. Specific identifers seen in the image such as a cleaning station, nearby building satellite dish/window positions, and matching fance-line (see MVO submission), allowed us to confirm the location of the image down to the exact position where the image was taken.
+These data points allowed a narrowing of the car-wash search areas and ultimately yielded us an address to the car-wash identified in the image. Google Maps and Google Street View were then utilized to attempt to locate and confirm the *exact* location that the image was taken. Specific identifers seen in the image such as a cleaning station, nearby building satellite dish/window positions, and matching fence-line (see MVO submission), allowed us to confirm the location of the image down to the exact position where the image was taken.
 
 **Image 3**
 
