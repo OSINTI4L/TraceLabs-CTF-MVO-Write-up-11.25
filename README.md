@@ -37,6 +37,18 @@ This yielded:
 
 Three images specifically stood out as points of focus when enumerating the account:
 
-**The Most Recent Post**
-The most recent shraed post (less than 24 hours prior to the CTF) could be seen in the post history of the MP account. The image was of the MP
+**Image 1**
 
+The most recent shared post (less than 24 hours prior to the CTF) could be seen in the post history of the MP account. The shared post was originally posted by one of the missing person's friends (MPF) on the MPF Facebook account one day prior to it being shared on the MP profile. The post was an image of the MP inside of what appeared to be a bedroom. The image was analyzed and no identifiers or location relevant data points could be found inside of the image. A thought process here could be, if there are unique identifiers to the structure of the room, locating a residential address (via people search sites, voter registration records, appraisal district lookups) associated with the MP could allow interior images to be found from realtor platforms of the house/apartment by address, thus allowing us to confirm location. Additional data points that could also be useful if found in the image (such as pieces of mail/items with a name listed other than that of the MP) could allow us to attempt to find the residence owner and locate it. Unfortunately, none of the data points were present. Locating the profile was still considered a "win" as it alerted us that the MP was still active and that this specific account was the platform in which they used to post.
+
+**Image 2**
+
+A secondary image was found shared by the MP 5 days prior to the CTF and was originally posted via the MPF FB account 6 days prior to the CTF. The image showed MP and MPF in what appeared to be a photoshoot in an urban area (what appeared to be a car-wash). Geolocation attempts were made to source the location of the images via Google reverse image searching, Google Maps, and AI geo tools: [FindPickLocation](https://findpiclocation.com/). The fruits of are labor were unfortunately sour, so we began searching for car-washes in known areas of the MP (listed from MP BOLO). This is when Kara's wife overheard the discussion of locating the images that we beleived to be in a specific city/state (via the voice chat we use for team communication). Being familiar with the area, she was able to use known knowledge of the citie's demographics and apply them to what was seen inside of the image, deriving the location.
+
+The following data points stood out as demographic identifiers:
+  - Language of text used on a billboard seen inside of the image
+  - The lack of graffiti indicated that it was not in traditional gang neighborhoods
+  - The car-wash tiles and paint were not sun bleached which indicates that it was not in an area where taller buildings were present to shade them
+  - The car-wash was self-service which was typically not found in the downtown areas
+
+These data points allowed a narrowing of the search areas and ultimately yielded us an address to the car-wash identified im the image. Google Maps and Google Street View were then utilized to attempt to locate and confirm the *exact* location that the image was taken. 
