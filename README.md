@@ -13,3 +13,6 @@
 
 **Kara:**
   - [KaraZajac]( https://karazajac.io/)
+
+## Desccripton:
+This is a write-up of the submission and intelligence gathering workflow used by team: ༼ つ ◕_◕ ༽つ gimmelocation in the November, 2025 [TraceLabs](https://tracelabs.org) capture the flag that ultimately won the Most Valuable OSINT (MVO) award.
