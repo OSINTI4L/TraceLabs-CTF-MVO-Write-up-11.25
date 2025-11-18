@@ -14,7 +14,7 @@
 **Kara:**
   - [KaraZajac]( https://karazajac.io/)
 
-## Description:
+## Description
 This is a write-up of the submission and intelligence gathering workflow used by team ༼ つ ◕_◕ ༽つ gimmelocation in the November, 2025 [TraceLabs](https://tracelabs.org) capture the flag that was ultimately awarded the Most Valuable OSINT (MVO) award.
 
 For privacy reasons to protect the individuals involved redactions have been made.
@@ -45,7 +45,7 @@ The most recent shared post (less than 24 hours prior to the CTF) could be seen 
 
 **Image 2**
 
-A secondary image was found shared by the MP 5 days prior to the CTF and was originally posted via the MPF FB account 6 days prior to the CTF. The image showed MP and MPF in what appeared to be a photoshoot in an urban area (what appeared to be a car-wash). Geolocation attempts were made to source the location of the images via Google reverse image searching, Google Maps, and AI geo tools: [FindPickLocation](https://findpiclocation.com/). The fruits of our labor were unfortunately sour, so we began searching for car-washes in known areas of the MP (listed from MP BOLO). This is when Kara's wife overheard the discussion of locating the images that we beleived to be in a specific city/state (via the voice chat we use for team communication). Being familiar with the area she was able to use known knowledge of the city's demographics and apply them to what was seen inside of the image, deriving the location.
+A secondary image was found shared by the MP 5 days prior to the CTF and was originally posted via the MPF FB account 6 days prior to the CTF. The image showed MP and MPF in what appeared to be a photoshoot in an urban area (what appeared to be a car-wash) with a gas station and fast food chain in the immediate vasinity. Geolocation attempts were made to source the location of the images via Google reverse image searching, Google Maps, and AI geo tools: [FindPickLocation](https://findpiclocation.com/). The fruits of our labor were unfortunately sour, so we began searching for car-washes in known areas of the MP (listed from MP BOLO). This is when Kara's wife overheard the discussion of locating the images that we beleived to be in a specific city/state (via the voice chat we use for team communication). Being familiar with the area she was able to use known knowledge of the city's demographics and apply them to what was seen inside of the image, deriving the location.
 
 The following data points stood out as demographic identifiers:
   - Language of text used on a billboard seen inside of the image
@@ -56,3 +56,5 @@ The following data points stood out as demographic identifiers:
 These data points allowed a narrowing of the car-wash search areas and ultimately yielded us an address to the car-wash identified im the image. Google Maps and Google Street View were then utilized to attempt to locate and confirm the *exact* location that the image was taken. Specific identifers seen in the image such as the cleaning station, satellite dish/window positions, and matching fance-line (seen in above submission image), allowed us to confirm the location of the image down to the exact position where the image was taken.
 
 **Image 3**
+
+The last image that was analyzed was a video shared by the MP 12 days prior to the CTF and originally posted by the MPF earlier in the year, post dissapearance. The video showed the MP standing infront of a lighting structure looking around and putting on a hat.
