@@ -17,7 +17,7 @@
   - [KaraZajac]( https://karazajac.io/)
 
 ## Description
-This is a write-up of the submission and intelligence gathering workflow used by team ༼ つ ◕_◕ ༽つ gimmelocation in the November, 2025 [TraceLabs](https://tracelabs.org) capture the flag event that was ultimately awarded the Most Valuable OSINT (MVO) award.
+This is a write-up of the submission and intelligence gathering workflow used by team ༼ つ ◕_◕ ༽つ gimmelocation in the November, 2025 [TraceLabs](https://tracelabs.org) capture the flag (CTF) event that was ultimately awarded the Most Valuable OSINT (MVO) award.
 
 For privacy reasons to protect the individuals involved redactions have been made.
 
