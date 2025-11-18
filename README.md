@@ -16,3 +16,6 @@
 
 ## Description:
 This is a write-up of the submission and intelligence gathering workflow used by team: ༼ つ ◕_◕ ༽つ gimmelocation in the November, 2025 [TraceLabs](https://tracelabs.org) capture the flag that ultimately awarded the Most Valuable OSINT (MVO) award.
+
+
+<img width="3578" height="1681" alt="MVO-Redacted" src="https://github.com/user-attachments/assets/efb5f241-3036-4e0b-a18d-900312d11d94" />
