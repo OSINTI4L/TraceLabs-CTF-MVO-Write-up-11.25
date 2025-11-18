@@ -51,7 +51,7 @@ The second image analyzed was a video shared by the MP 12 days prior to the CTF 
 
 **Image 2**
 
-The final image analyzed was shared by the MP 5 days prior to the CTF and was originally posted via the MPF FB account 6 days prior to the CTF. The image showed the MP and MPF in what appeared to be a photoshoot in an urban area (a car-wash) with a gas station and fast food restaurant in the immediate vicinity. Geolocation attempts were made to source the location in the images via Google reverse image searching, Google Maps, and AI geo tools: [FindPickLocation](https://findpiclocation.com/). The fruits of our labor were unfortunately sour, so Kara and I (OSINTI4L) began searching for car-washes in areas relevant to locations listed from the MP BOLO and areas in the vicinity of the perviously found location from video 1. This is when Kara's wife overheard the discussion of geolocating the images that we beleived to be in a specific city/state (via the voice chat we use for team communication). Being familiar with the area she was able to use known knowledge of the city's demographics and apply them to what was present inside of the image, deriving the location.
+The final image analyzed was shared by the MP 5 days prior to the CTF and was originally posted via the MPF FB account 6 days prior to the CTF. The image showed the MP and MPF in what appeared to be a photoshoot in an urban area (a car-wash) with a gas station and fast food restaurant in the immediate vicinity. Geolocation attempts were made to source the location in the images via Google reverse image searching, Google Maps, and AI geo tools: [FindPickLocation](https://findpiclocation.com/). The fruits of our labor were unfortunately sour, so Kara and I (OSINTI4L) began searching for car-washes in areas relevant to locations listed from the MP BOLO and areas in the vicinity of the previously found location from video 1. This is when Kara's wife overheard the discussion of geolocating the images that we beleived to be in a specific city/state (via the voice chat we use for team communication). Being familiar with the area she was able to use known knowledge of the city's demographics and apply them to what was present inside of the image, deriving the location.
 
 The following data points stood out as demographic identifiers:
   - Language of text used on a billboard seen inside of the image
@@ -59,11 +59,11 @@ The following data points stood out as demographic identifiers:
   - The car-wash tiles and paint were not sun bleached which indicates that it was not in an area where taller buildings were present to shade them
   - The car-wash was self-service which was typically not found in the downtown areas
 
-These data points allowed a narrowing of the car-wash search areas and ultimately yielded us an address to the car-wash identified in the image. Google Maps and Google Street View were then utilized to attempt to locate and confirm the *exact* location that the image was taken. Specific identifers seen in the image such as a cleaning station, nearby building satellite dish/window positions, and matching fence-line (see MVO submission), allowed us to confirm the location of the image down to the exact position where the image was taken.
+These data points allowed a narrowing of the car-wash search areas and ultimately yielded us an address to the car-wash identified in the image. Google Maps and Google Street View were then utilized to attempt to locate and confirm the *exact* location that the image was taken. Specific identifers seen in the image such as a cleaning station, nearby building satellite dish/window positions, and matching fence-line (see MVO submission) allowed us to confirm the location of the image down to the exact position where the image was taken.
 
 
 **Pulling It All Together**
 
 As we decided that the aforementioned data points were the *most* relevant to the investigation, we began documenting. A flow chart was made (draw.io) with all relevant intel points gathered. This allowed us to provide a single document showing the workflow and comparison of geolocation data showing how the information was sourced and how we confirmed the intel was valid. Information without context is not intelligence, as such, we have found that the proper documentation of intel points is *just as important* as the intel points themselves. This chart allowed us to ultimately display that and was thus awarded Most Valuable OSINT.
 
-✌️
+### ✌️
