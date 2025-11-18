@@ -45,7 +45,7 @@ The most recent shared post (less than 24 hours prior to the CTF) could be seen 
 
 **Image 2**
 
-A secondary image was found shared by the MP 5 days prior to the CTF and was originally posted via the MPF FB account 6 days prior to the CTF. The image showed MP and MPF in what appeared to be a photoshoot in an urban area (what appeared to be a car-wash) with a gas station and fast food chain in the immediate vasinity. Geolocation attempts were made to source the location of the images via Google reverse image searching, Google Maps, and AI geo tools: [FindPickLocation](https://findpiclocation.com/). The fruits of our labor were unfortunately sour, so we began searching for car-washes in known areas of the MP (listed from MP BOLO). This is when Kara's wife overheard the discussion of locating the images that we beleived to be in a specific city/state (via the voice chat we use for team communication). Being familiar with the area she was able to use known knowledge of the city's demographics and apply them to what was seen inside of the image, deriving the location.
+A secondary image was found shared by the MP 5 days prior to the CTF and was originally posted via the MPF FB account 6 days prior to the CTF. The image showed MP and MPF in what appeared to be a photoshoot in an urban area (what appeared to be a car-wash) with a gas station and fast food chain in the immediate vasinity. Geolocation attempts were made to source the location of the images via Google reverse image searching, Google Maps, and AI geo tools: [FindPickLocation](https://findpiclocation.com/). The fruits of our labor were unfortunately sour, so Kara and I began searching for car-washes in known areas of the MP (listed from MP BOLO). This is when Kara's wife overheard the discussion of locating the images that we beleived to be in a specific city/state (via the voice chat we use for team communication). Being familiar with the area she was able to use known knowledge of the city's demographics and apply them to what was seen inside of the image, deriving the location.
 
 The following data points stood out as demographic identifiers:
   - Language of text used on a billboard seen inside of the image
@@ -57,4 +57,8 @@ These data points allowed a narrowing of the car-wash search areas and ultimatel
 
 **Image 3**
 
-The last image that was analyzed was a video shared by the MP 12 days prior to the CTF and originally posted by the MPF earlier in the year, post dissapearance. The video showed the MP standing infront of a lighting structure looking around and putting on a hat.
+The last image analyzed was a video shared by the MP 12 days prior to the CTF and originally posted by the MPF earlier in the year post dissapearance. The video showed the MP standing infront of a lighting structure looking around and putting on a hat. An approximate one second frame can be seen in the video while the camera angle moves of a building in the background with a "casino" sign atop. This allowed us to locate the building via Google searches, Google Maps, and Google Street View. Utilizing Google Street View we then attempted to locate the lighting structure seen in close proximity to the "casino" building. The lighting structure was ultimately found and confirmed by comparing various data points such as a matching padlock and storage area, matching lighting, and a Chevron gas station sign that could be seen to the left of the lighting strucutre that was present in the video frame (see MVO submission). This was the exact location that the video was recorded.
+
+**Pulling It All Together**
+
+As we decided that the collected data points were the *most* relevant to the investiation, we began documenting. A flow chart was made with all relevant intel
