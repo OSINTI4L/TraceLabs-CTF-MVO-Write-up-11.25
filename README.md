@@ -35,7 +35,7 @@ This yielded:
   - 24 Social media accounts & link directories
   - 14 Usernames
   - 4 Emails
-  - 10 Accouts linked to found emails
+  - 10 Accounts linked to found emails
   - 2 Associated addresses
   - 2 Relatives
 
