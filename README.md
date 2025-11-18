@@ -1,9 +1,10 @@
 <div align="center">
 
 # TraceLabs CTF MVO Award Write-up November, 2025
-## Team ༼ つ ◕_◕ ༽つ gimmelocation
 <img width="150" height="150" alt="TLMVO" src="https://github.com/user-attachments/assets/333a1039-e34a-4ccb-956f-a0006df03cf4" />
 </div>
+
+## Team ༼ つ ◕_◕ ༽つ gimmelocation
 
 **OSINTI4L:**
   - [Github](https://github.com/OSINTI4L)
